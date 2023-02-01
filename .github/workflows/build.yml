@@ -17,5 +17,4 @@ jobs:
         id: check
         uses: usehaystack/jira-pr-link-action@v4
         with:
-          ignore-author: dependabot[bot]
           project: "GI"
